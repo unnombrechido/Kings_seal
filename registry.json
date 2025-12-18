@@ -1,0 +1,14 @@
+{
+  "starbucks-official": {
+    "secret": "super-secret-key-starbucks-2025",
+    "display_name": "Starbucks"
+  },
+  "mcdonalds-official": {
+    "secret": "another-very-secret-key-mcd-2025",
+    "display_name": "McDonald's"
+  },
+  "my-personal-site": {
+    "secret": "my-own-secret-for-testing-123",
+    "display_name": "My Personal Site"
+  }
+}
