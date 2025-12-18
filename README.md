@@ -31,5 +31,5 @@ Visual indicators differentiate levels; no one-click trust for risky payloads.
 I declare this idea originated with me on or before December 18, 2025.
 
 Signed:  
-[Your Full Name]  
+Omar David Puente Trejo
 December 18, 2025
