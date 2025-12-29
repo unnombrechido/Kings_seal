@@ -1,5 +1,7 @@
 # King’s Seal
 
+**Patent Pending**
+
 **A Hybrid Layered Trust System for Secure QR Code Scanning**
 
 **Inventor:** Omar David Puente Trejo (unnombrechido)  
